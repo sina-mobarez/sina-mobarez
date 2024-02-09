@@ -13,7 +13,7 @@
 
   class WhoAmI:
         languagues = 'Fa' | 'En'
-	    city = 'Isfahan' | 'Tehran
+	    city = 'Isfahan' | 'Tehran'
 	    hobbies = [
 				'reading',
                          'snooker',
