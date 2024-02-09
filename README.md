@@ -182,7 +182,7 @@ If you have any questions about web development, writing mistake-free documentat
 <img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sina-mobarez&label=Profile%20Views&color=12&icon=5&pretty=true" />
+
 </div>
 
 ------
