@@ -56,14 +56,6 @@
       <img width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" />
       <img width="30px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
     </kbd>
-     <kbd>
-      <kbd>Mobile</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    </kbd>
     <kbd>
       <kbd>Front-end</kbd>
       <br>
@@ -72,13 +64,11 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
       <img width="30px" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
     </kbd>
     <kbd>
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
@@ -117,16 +107,7 @@
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   </kbd>
-     <kbd>
-      <kbd>Game Development</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-    </kbd>
   </p>
 </div>
 </details>
